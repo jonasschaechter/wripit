@@ -1,3 +1,19 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @jonasschaechter
+ Watch 8
+  Star 9
+  Fork 52 phonegap-build/pgb-example-camera
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs
+Branch: master Find file Copy pathpgb-example-camera/www/css/index.css
+ebe5bf7  on 3 Sep 2013
+@hardeep hardeep initial commit
+1 contributor
+RawBlameHistory     125 lines (113 sloc)  3.77 KB
 /*
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
@@ -69,6 +85,15 @@ body {
     }
 }
 
+.app button {
+  margin: 10px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  line-height: 30px;
+  font-size: 15px;
+}
+
 h1 {
     font-size:24px;
     font-weight:normal;
@@ -113,3 +138,5 @@ h1 {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Status Help

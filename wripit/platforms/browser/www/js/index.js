@@ -1,3 +1,19 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @jonasschaechter
+ Watch 8
+  Star 9
+  Fork 52 phonegap-build/pgb-example-camera
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs
+Branch: master Find file Copy pathpgb-example-camera/www/js/index.js
+ebe5bf7  on 3 Sep 2013
+@hardeep hardeep initial commit
+1 contributor
+RawBlameHistory     63 lines (59 sloc)  2.15 KB
 /*
  * Licensed to the Apache Software Foundation (ASF) under one
  * or more contributor license agreements.  See the NOTICE file
@@ -31,7 +47,7 @@ var app = {
     // deviceready Event Handler
     //
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
-    // function, we must explicitly call 'app.receivedEvent(...);'
+    // function, we must explicity call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
     },
@@ -45,5 +61,18 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
+    },
+
+    takePicture: function() {
+      navigator.camera.getPicture( function( imageURI ) {
+        alert( imageURI );
+      },
+      function( message ) {
+        alert( message );
+      },
+      {
+        quality: 50,
+        destinationType: Camera.DestinationType.FILE_URI
+      });
     }
 };
