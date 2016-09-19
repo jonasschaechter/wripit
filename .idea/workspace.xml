@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="adfe3853-f7d2-46d7-bada-1d62b0f14e47" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wripit/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/wripit/platforms/browser/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wripit/www/index.html" afterPath="$PROJECT_DIR$/wripit/www/index.html" />
     </list>
     <ignored path="wripit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,11 +40,34 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wripit/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+            <state relative-caret-position="2355">
+              <caret line="157" column="3" selection-start-line="157" selection-start-column="3" selection-end-line="157" selection-end-column="3" />
               <folding>
-                <element signature="e#2796#2802#1" expanded="true" />
-                <element signature="e#4487#4493#1" expanded="true" />
+                <element signature="e#3247#3253#1" expanded="true" />
+                <element signature="e#4938#4944#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wripit/www/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.mobile-1.4.5.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wripit/www/css/jquery.mobile-1.4.5.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="2" column="17762" selection-start-line="2" selection-start-column="17762" selection-end-line="2" selection-end-column="17762" />
+              <folding>
+                <element signature="e#17896#18700#2" expanded="true" />
+                <element signature="e#24548#25638#2" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -492,7 +517,7 @@
       <updated>1474221414895</updated>
       <workItem from="1474221420070" duration="1422000" />
       <workItem from="1474223052469" duration="386000" />
-      <workItem from="1474223465622" duration="14442000" />
+      <workItem from="1474223465622" duration="16193000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1474222301237</created>
@@ -533,7 +558,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16250000" />
+    <option name="totallyTimeSpent" value="18001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="777" extended-state="6" />
@@ -659,17 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wripit/www/css/jquery.mobile-1.4.5.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="2" column="17762" selection-start-line="2" selection-start-column="17762" selection-end-line="2" selection-end-column="17762" />
-          <folding>
-            <element signature="e#17896#18700#2" expanded="true" />
-            <element signature="e#24548#25638#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wripit/www/icon.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -715,13 +729,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wripit/www/css/jquery.mobile-1.4.5.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="2" column="17762" selection-start-line="2" selection-start-column="17762" selection-end-line="2" selection-end-column="17762" />
+          <folding>
+            <element signature="e#17896#18700#2" expanded="true" />
+            <element signature="e#24548#25638#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wripit/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wripit/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+        <state relative-caret-position="2355">
+          <caret line="157" column="3" selection-start-line="157" selection-start-column="3" selection-end-line="157" selection-end-column="3" />
           <folding>
-            <element signature="e#2796#2802#1" expanded="true" />
-            <element signature="e#4487#4493#1" expanded="true" />
+            <element signature="e#3247#3253#1" expanded="true" />
+            <element signature="e#4938#4944#1" expanded="true" />
           </folding>
         </state>
       </provider>

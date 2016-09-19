@@ -6,7 +6,20 @@
     <meta name="msapplication-tap-highlight" content="no" />
     <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width" />
     <meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline'; style-src 'self' 'unsafe-inline'; media-src *" />
+<!-- Firebase integration -->
 
+<script src="https://www.gstatic.com/firebasejs/3.4.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyD59vzJqtpZprvxukShHlPrYn-iTeH9vnA",
+    authDomain: "wripit-35f91.firebaseapp.com",
+    databaseURL: "https://wripit-35f91.firebaseio.com",
+    storageBucket: "wripit-35f91.appspot.com",
+    messagingSenderId: "585736864407"
+  };
+  firebase.initializeApp(config);
+</script>
 
 <!-- externe Links
     <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
