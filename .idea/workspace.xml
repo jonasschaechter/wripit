@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="adfe3853-f7d2-46d7-bada-1d62b0f14e47" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wripit/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/wripit/platforms/browser/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wripit/www/index.html" afterPath="$PROJECT_DIR$/wripit/www/index.html" />
     </list>
     <ignored path="wripit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -517,7 +515,7 @@
       <updated>1474221414895</updated>
       <workItem from="1474221420070" duration="1422000" />
       <workItem from="1474223052469" duration="386000" />
-      <workItem from="1474223465622" duration="16193000" />
+      <workItem from="1474223465622" duration="16206000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1474222301237</created>
@@ -554,11 +552,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474283222621</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="neues design und erste versuche des drag and drops">
+      <created>1474298691622</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1474298691622</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18001000" />
+    <option name="totallyTimeSpent" value="18014000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="777" extended-state="6" />
